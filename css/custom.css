@@ -1,0 +1,14 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+.btn{
+  border-color: black;
+  background-color: inherit;
+  color: inherit;
+}
+
+.btn:hover{
+  color: white;
+}
+
+.btn:visited{
+  color: black;
+}
